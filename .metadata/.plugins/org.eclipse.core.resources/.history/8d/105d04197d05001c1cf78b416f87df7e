@@ -1,0 +1,11 @@
+package org.firstopen;
+
+public class OpenMin {
+public void sapmle() {
+System.out.println("welocme java");
+ }
+public static void main(String[] args) {
+	OpenMin o = new OpenMin();
+	o.sapmle();
+}
+}

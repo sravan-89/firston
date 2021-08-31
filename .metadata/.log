@@ -1,0 +1,13 @@
+!SESSION 2021-08-30 18:45:38.642 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_301
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.committers.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.committers.product
+
+This is a continuation of log file C:\Users\star electronics\eclipse-workspace\.metadata\.bak_0.log
+Created Time: 2021-08-31 16:16:16.786
+
+!ENTRY org.eclipse.ui.monitoring 4 0 2021-08-31 16:16:16.788
+!MESSAGE UI freeze of 1.9s at 16:16:14.434
