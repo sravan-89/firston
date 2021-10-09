@@ -5,9 +5,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public class BaseClass {
 	public static WebDriver driver;
+	Actions a ;
 public void getDriver(String browser) {
 	if (browser.equalsIgnoreCase("chrome")) {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\star electronics\\eclipse-workspace\\CheckMaven\\drivers\\chromedriver.exe");
@@ -31,5 +33,6 @@ public WebElement locators (String loc ,String data) {
 		element = driver.findElement(By.name(data));
 	}
 	return element;
+	
 }
 }

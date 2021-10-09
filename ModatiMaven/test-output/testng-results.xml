@@ -2,64 +2,64 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+  <suite name="Default suite" duration-ms="182" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+    <test name="Default test" duration-ms="182" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
       <class name="org.junittesting.test1">
-        <test-method status="PASS" signature="tc0()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc0" is-config="true" duration-ms="11" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc0" is-config="true" duration-ms="61" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc0 -->
-        <test-method status="PASS" signature="tc1()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc1" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc1" is-config="true" duration-ms="1" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method status="PASS" signature="tc2()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc2" is-config="true" duration-ms="1" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc2" is-config="true" duration-ms="0" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="0" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc4 -->
-        <test-method status="PASS" signature="tc3()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc3" duration-ms="5" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc3" duration-ms="26" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc3 -->
-        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="0" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc6 -->
-        <test-method status="PASS" signature="tc5()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc5" duration-ms="4" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="1" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc5" duration-ms="1" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc5 -->
-        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tc4 -->
-        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="1" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="1" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc6 -->
-        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="1" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tc4 -->
-        <test-method status="PASS" signature="tc7()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc7" duration-ms="2" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc7" duration-ms="2" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc7 -->
-        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="1" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc4" is-config="true" duration-ms="0" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc6" is-config="true" duration-ms="1" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc6 -->
-        <test-method status="PASS" signature="tc8()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc8" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc8()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc8" is-config="true" duration-ms="0" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc8 -->
-        <test-method status="PASS" signature="tc9()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc9" is-config="true" duration-ms="0" started-at="2021-08-31T04:04:21Z" finished-at="2021-08-31T04:04:21Z">
+        <test-method status="PASS" signature="tc9()[pri:0, instance:org.junittesting.test1@29ee9faa]" name="tc9" is-config="true" duration-ms="2" started-at="2021-09-15T12:59:55Z" finished-at="2021-09-15T12:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc9 -->
